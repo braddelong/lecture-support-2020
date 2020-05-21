@@ -1,5 +1,5 @@
 test = {
-  'name': 'q3_3_1',
+  'name': 'q2_3_1',
   'points': 1,
   'suites': [
     {
@@ -21,7 +21,7 @@ test = {
           'code': r"""
           >>> # Read the text above the question to see what;
           >>> # time should be. ;
-          >>> round(time, 5)
+          >>> round(time_t, 5)
           1.2
           """,
           'hidden': False,

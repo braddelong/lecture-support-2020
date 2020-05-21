@@ -1,11 +1,11 @@
 {
-  "name": "Lab 1: Expressions",
+  "name": "Problem Set 0. Python & Notebooks",
   "endpoint": "cal/data8/sp20/lab01",
   "src": [
     "lab01.ipynb"
   ],
   "tests": {
-      "tests/q*.py": "ok_test"
+      "ps00-tests/q*.py": "ok_test"
   },
   "protocols": [
       "file_contents",

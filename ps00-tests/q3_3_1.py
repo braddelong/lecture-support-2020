@@ -1,13 +1,13 @@
 test = {
-  'name': 'q5_1_1',
+  'name': 'q3_3_1',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> round(min_height_difference, 5)
-          0.04
+          >>> round(paola_distance_from_average_m, 5)
+          0.072
           """,
           'hidden': False,
           'locked': False
