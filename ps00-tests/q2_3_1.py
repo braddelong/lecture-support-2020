@@ -21,7 +21,7 @@ test = {
           'code': r"""
           >>> # Read the text above the question to see what;
           >>> # time should be. ;
-          >>> round(time_t, 5)
+          >>> round(time, 5)
           1.2
           """,
           'hidden': False,
