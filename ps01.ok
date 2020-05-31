@@ -1,11 +1,11 @@
 {
-  "name": "Problem Set 0. Python & Notebooks",
+  "name": "Problem Set 1. The Very Long Run View",
   "endpoint": "cal/data8/sp20/lab01",
   "src": [
     "PS00.ipynb"
   ],
   "tests": {
-      "ps00-tests/q*.py": "ok_test"
+      "ps01-tests/q*.py": "ok_test"
   },
   "protocols": [
       "file_contents",
